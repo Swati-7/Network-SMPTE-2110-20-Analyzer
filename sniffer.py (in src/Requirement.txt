@@ -1,0 +1,2 @@
+# No external libraries required
+# Uses only built-in modules: socket, struct, binascii, os
